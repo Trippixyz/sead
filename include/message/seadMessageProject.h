@@ -1,7 +1,7 @@
 #pragma once
 
 #include <heap/seadHeap.h>
-#include "LibMessageStudio/include/LMS_Project.h"
+#include <LibMessageStudio/include/projfile.h>
 
 namespace sead
 {

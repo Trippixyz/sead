@@ -1,5 +1,6 @@
 #include <message/seadMessageProject.h>
-#include "LibMessageStudio/include/LMS_Mem.h"
+
+#include <LibMessageStudio/include/libms.h>
 
 namespace sead
 {
