@@ -163,6 +163,9 @@ add_library(sead OBJECT
   modules/src/mc/seadWorker.cpp
   modules/src/mc/seadWorkerMgr.cpp
 
+  include/nnsdk/Print.h
+  modules/src/nnsdk/Print.cpp
+
   include/prim/seadBitFlag.h
   include/prim/seadBitUtil.h
   include/prim/seadContainerIterator.h
